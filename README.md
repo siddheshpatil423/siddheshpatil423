@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddheshpatil423
-- 👀 I’m interested in ... Javascript / Data SCEIENce / PYTHON / Java
-- 🌱 I’m currently learning ... Java script
-- 💞️ I’m looking to collaborate on ... Javascript / Data SCEIENce / PYTHON / Java / ML / AI
+- 👀 I’m interested in ... Data Engineering / Cloud Computing / PYTHON / SQL / Azure / Spark / Snowflake / Java
+- 🌱 I’m currently learning ... Python & SQL
+- 💞️ I’m looking to collaborate on ... Data Engineering / Cloud Computing / PYTHON / SQL / Azure / Spark / Snowflake / Java
 - 📫 How to reach me ... 9967604679 / siddhesh.patil423@hotmail.com
 
 <!---
